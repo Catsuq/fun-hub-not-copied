@@ -1,2 +1,2 @@
 # fun-hub-not-copied
-V2
+ONLY LUA
